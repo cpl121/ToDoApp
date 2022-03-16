@@ -1,9 +1,14 @@
+:root{
+  --font-family-type: 'Twinkle Star', cursive;
+  --color-blue: #61DAFA;
+}
+
 body {
   margin: 0;
   padding: 0;
   background: white;
   color: black;
-  font-family: 'Twinkle Star', cursive;
+  font-family: var(--font-family-type);
 }
 
 #root {
