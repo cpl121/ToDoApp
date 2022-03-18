@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-<a href="">
+<a href="https://github.com/cpl121/ToDoApp/blob/main/diploma-react.pdf">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/pdf.png"/>
   </a>
 <a href="https://github.com/cpl121/cpl121/blob/main/Cesar_CV.pdf">
